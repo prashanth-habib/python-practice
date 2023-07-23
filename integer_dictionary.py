@@ -14,4 +14,5 @@ def create_dict(num: int):
         sq_dict[i] = i * i
     return sq_dict
 
+
 print(create_dict(8))
